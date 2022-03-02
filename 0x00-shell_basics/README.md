@@ -2,7 +2,7 @@ all the following files are shell scripts which can be used to perform some acti
 >0-current_working_directory
 >>It contains script that will print the current working directory.
 >1-listit
->>Cotains script to list files and directories in the current directory
+>>Cotains script to list files and directories in the current directory \n
 >2-bring_me_home
 >>this one helps in returning to the home directory
 >3-listfiles
@@ -11,4 +11,4 @@ all the following files are shell scripts which can be used to perform some acti
 >>this will list all files even hidden files.
 >5-listfilesdigitonly
 >>it will list in long format with user and group IDs even hidden files
->
+
